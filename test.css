@@ -1,0 +1,26 @@
+.third{
+    text-align: center;
+    background-color: darkslateblue;
+    color: aqua;
+}
+.about{
+    text-align: center;
+    color: aqua;
+}
+.second{
+    background-color: darkslateblue;
+    color: aqua;
+}
+
+.egusi{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+    height: 300px;
+}
+
+.first{
+    background-color: rgb(235, 224, 224);;
+}
+
